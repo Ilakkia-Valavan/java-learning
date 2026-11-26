@@ -1,0 +1,7 @@
+#complied class files
+*.class
+
+#ignore all doc files
+*.doc
+*.docx
+*.docm
